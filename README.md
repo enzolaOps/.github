@@ -1,5 +1,7 @@
-# enzolaOps
+# enzolaOps/.github
 
-Shared GitHub Actions workflows and organization defaults for services deployed through enzolaOps infrastructure.
+Defaults da organização. O perfil **público** da org é [`profile/README.md`](profile/README.md).
 
-The `pi-production` self-hosted runner group must remain restricted to explicitly approved repositories. Reusable deployment workflows will be added with the Dokku implementation; this repository does not grant host access by itself.
+O `pi-production` self-hosted runner group fica restrito a repositórios aprovados. Workflows reutilizáveis entram aqui; este repositório não concede acesso ao host por si só.
+
+Vista de member: repositório privado [`.github-private`](https://github.com/enzolaOps/.github-private).
